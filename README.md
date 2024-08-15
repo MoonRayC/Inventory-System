@@ -21,16 +21,16 @@ The Inventory System is a comprehensive solution for managing inventory, process
 ## Screenshots
 
 ![Dashboard](docs/Screenshot%20(1).png)
-*Dashboard view showing sales and low stock.*
-
-![Order Processing](docs/Screenshot%20(2).png)
 *Order processing interface.*
 
+![Order Processing](docs/Screenshot%20(2).png)
+*Dashboard view showing sales and low stock.*
+
 ![Product Management](docs/Screenshot%20(3).png)
-*Product storage and management screen.*
+*View order and print order interface.*
 
 ![User Management](docs/Screenshot%20(4).png)
-*User management interface.*
+*Product view interface.*
 
 ## Installation
 
